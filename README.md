@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 CS undergrad turning caffeine into scalable backends. I build things that handle the hard stuff — async workflows, JWT-secured APIs, background queues, and Redis caching. MERN stack | BullMQ | AI integrations.
+🚀 CS undergrad turning caffeine into scalable backends. Designed production-level APIs with JWT authentication rate limiting, async workflows, background queues, and Redis caching. MERN stack | BullMQ | AI integrations.
 
 
 # 💻 Tech Stack:
